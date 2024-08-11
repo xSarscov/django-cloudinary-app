@@ -1,5 +1,5 @@
-# cloudinary-testing-django
-Integración del servicio cloudinary para gestionar archivos multimedia en Django
+# Handling media files in Django using Cloudinary
+Cloudinary service integration to manage media files in Django. 🗂️
 
 ## Preview
 ### Cloudinary media library
